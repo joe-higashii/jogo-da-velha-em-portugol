@@ -242,7 +242,7 @@ programa
 	{
 		inteiro opcao = 0
 		
-		escreva("Desenvolvedor: Anderson Lima\nPrograma: Portugol Studio\nJogo: Jogo da Velha\nData de Criação: 25-07-2019\n\n")
+		escreva("o/\n\n")
 		
 		enquanto(opcao == 0 ou opcao > 2){	
 			
